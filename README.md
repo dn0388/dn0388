@@ -28,7 +28,9 @@ Por onde eu já passei!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dn0388&show_icons=true&theme=tokyonight&hide_title=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0388&layout=compact&theme=tokyonight" />
 </p>
-
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_title=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
 ## 🚀 Linguagens e Tecnologias
 
 <p align="center">
