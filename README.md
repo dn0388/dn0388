@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Mizael Souto
+## Olá 👋 Eu sou Daniel Medeiros
 
 Sou Analista de Sistemas, educador e consultor em tecnologia, com foco em criar soluções inteligentes, escaláveis e seguras. 
 
