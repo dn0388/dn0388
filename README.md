@@ -23,9 +23,12 @@ Por onde eu já passei!
 ---
 
 ## 📊 GitHub Stats
-<!-- GitHub Stats -->
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=dn0388&show_icons=true&theme=tokyonight&hide_title=false" />
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0388&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=QuasarJ03131806&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasarJ03131806&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🚀 Linguagens e Tecnologias
 
 <p align="center">
@@ -44,4 +47,3 @@ Por onde eu já passei!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1285ea5-983e-405e-a17e-53673b2a3041" alt="Imagem centralizada" />
 </p>
-
